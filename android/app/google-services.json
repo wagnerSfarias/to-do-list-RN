@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "153090426320",
+    "project_id": "tasks-2fec0",
+    "storage_bucket": "tasks-2fec0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153090426320:android:709c0f1fe881d8187e25d5",
+        "android_client_info": {
+          "package_name": "com.apptarefas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153090426320-91l2rkisj4de9kn8h09b3uvvdth50rir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAskyFcIE3M21Gi3N7CL_GeyH9wXGaGm0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153090426320-91l2rkisj4de9kn8h09b3uvvdth50rir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
