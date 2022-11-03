@@ -121,7 +121,7 @@ export default function Taks() {
       )}
       <ContainerTitle >
         <Input
-          placeholder="O que vai fazer hoje ?"
+          placeholder="Digite sua tarefa..."
           autoCorrect={true}
           value={newTask}
           onChangeText={(text) => setNewTask(text)}
