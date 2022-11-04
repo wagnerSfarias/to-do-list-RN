@@ -1,8 +1,7 @@
 ## Sobre
-Projeto criado com React + React Native, que tem a funcionalidade de criar, editar e excluir tarefas do seu dia a dia.
+Projeto criado com duas partes uma web desenvolvida com React e a mobile desenvolvida com React Native, que tem a funcionalidade de criar, editar e concluir tarefas do seu dia a dia.
 
-Um projeto simples que me ajudou a praticar a consumir  
- banco de dados e utilizar a autenticação que o firebase oferece.
+Um projeto simples que me ajudou a praticar a consumir banco de dados e utilizar a autenticação serviços oferecidos pelo firebase.
 
 [Repositório React](https://github.com/wagnerSfarias/to-do-list-React)
 
