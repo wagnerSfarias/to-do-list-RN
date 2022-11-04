@@ -10,15 +10,10 @@ Um projeto simples que me ajudou a praticar a consumir banco de dados e utilizar
 ![apresentacao](https://github.com/wagnerSfarias/to-do-list-RN/blob/main/src/assets/ezgif.com-gif-maker.gif?raw=true) 
 
 
-## Tecnologias utilizadas React Native
+## Tecnologias utilizadas 
 - React Native
 - React Native Navigation-Stack/Navigation-Bottom-tabs
 - Firebase /firestore/auth/app
 - Vector-Icons
 
-## Tecnologias utilizadas React
-- React
-- Firebase
-- React-Router-dom
-- React-Icons
-- React-toastify
+
