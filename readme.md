@@ -14,6 +14,7 @@ Um projeto simples que me ajudou a praticar a consumir banco de dados e utilizar
 - React Native
 - React Native Navigation-Stack/Navigation-Bottom-tabs
 - Firebase /firestore/auth/app
+- Styled Components
 - Vector-Icons
 
 
